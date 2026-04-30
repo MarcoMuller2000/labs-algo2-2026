@@ -1,0 +1,6 @@
+*aux/
+*.o
+*.out
+weather
+sorter
+main
